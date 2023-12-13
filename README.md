@@ -15,7 +15,7 @@ Bem-vindo ao projeto Imobiliária VIJIL! Este sistema web foi desenvolvido como 
 
 ## Pré-requisitos
 Certifique-se de ter o ambiente PHP configurado e um servidor web para hospedar o projeto.
-**Banco de Dados**: Execute o script SQL fornecido (`bd_imobiliaria.sql`) para criar a estrutura do banco de dados.
+- **Banco de Dados**: Execute o script SQL fornecido (`bd_imobiliaria.sql`) para criar a estrutura do banco de dados.
 
 ## Instalação
 1. Clone o repositório: git clone https://github.com/Isabelaponte/Imobiliaria
